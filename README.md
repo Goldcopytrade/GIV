@@ -1,6 +1,6 @@
 # GIVCoin, The Token For Gold Platform
 
-<div align="center"><img src="https://waccoins.com/wp-content/uploads/2023/12/wac300x300.fw_.png)" /><br />
+<div align="center"><img src="https://goldinvests.io/wp-content/uploads/2024/02/logo414x414.fw_.png)" /><br />
 </div>
 <div align="center">
   <h1>
