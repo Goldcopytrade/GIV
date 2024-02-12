@@ -29,7 +29,9 @@ supported by the Visa company.
 
 🌐 Smart Contract : https://bscscan.com/token/0x7979848ddb8027d1C3613d7bbDB25481986352Fd
 
-📊 https://pancakeswap.finance/swap?outputCurrency=0x7979848ddb8027d1C3613d7bbDB25481986352Fd
+📊 But token : https://pancakeswap.finance/swap?outputCurrency=0x7979848ddb8027d1C3613d7bbDB25481986352Fd
+
+🔰 Staking : https://goldinvests.io/staking
 
 🟩 Twitter : https://twitter.com/official46512
 
