@@ -1,4 +1,4 @@
-# GIVCoin, The Token For Gold trading platform
+# Gold invest(GIV), The Token For Gold trading platform
 
 <div align="center"><img src="https://goldinvests.io/wp-content/uploads/2024/02/logo414x414.fw_.png)" /><br />
 </div>
