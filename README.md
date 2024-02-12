@@ -27,9 +27,9 @@ supported by the Visa company.
 
 – Visa partner. Earnings are automatically transferred to the wallet. Members can convert and withdraw money from the metamask wallet to crypto partner Visa cards such as Transak.
 
-🌐 Smart Contract : https://bscscan.com/token/0x7979848ddb8027d1C3613d7bbDB25481986352Fd
+🌐 Smart Contract : https://bscscan.com/address/0x977d3c595f9c9b5a3a5b05845499dc05ea713026
 
-📊 But token : https://pancakeswap.finance/swap?outputCurrency=0x7979848ddb8027d1C3613d7bbDB25481986352Fd
+📊 But token : https://pancakeswap.finance/swap?outputCurrency=0x977d3c595f9c9b5A3A5b05845499Dc05EA713026
 
 🔰 Staking : https://goldinvests.io/staking
 
