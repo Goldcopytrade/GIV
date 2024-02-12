@@ -1,15 +1,23 @@
-# WACCoin The Token of Payment Marketplace & Staking
+# GIVCoin, The Token For Gold Platform
 
 <div align="center"><img src="https://waccoins.com/wp-content/uploads/2023/12/wac300x300.fw_.png)" /><br />
 </div>
 <div align="center">
   <h1>
 </div>
-The entire WACCoin ecosystem consists of a subset of a revolutionary Technology platform. Payments by WAC Crypto on the Marketplace Payment, Staking platform using the blockchain management system.
+Goldinvest Token is your gateway to a new era of investment possibilities in the dynamic market of precious metals, currencies and cryptocurrencies! via Secure and transparent BNB Smart Chain
 
-# Marketplace Platform
+# Earning platform
 
-We serve a WACCoin marketplace platform that combines all types low price from the manufacturer. and members on the platform accept payments through WACCoin
+
+Earning platform
+Gold invest web3 Staking platform. Passive income generation technology running through the binance blockchain. Start earning with us in just 3 easy steps.
+
+1. Buy token on pancakeswap. Buy BNB coin transfer to your wallet. Connect wallet and enter BNB amout and comfirm your wallet
+
+2. Select package & Stake. Go to stake platform. connect wallet first, select plan your interest, Approve & comfirm wallet a stake.
+
+3. Enjoy regular profits. You rewards are generated minute until the due stake Now it’s time to enjoy your life and finally let your money work for you every day.
 
 # Payment gateway
 Use WACCoin 100% on WAC Marketplace.  in shop have product more than 1,000 item. Ready to ship immediately after paying WACCoin
