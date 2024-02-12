@@ -19,14 +19,21 @@ Gold invest web3 Staking platform. Passive income generation technology running 
 
 3. Enjoy regular profits. You rewards are generated minute until the due stake Now it’s time to enjoy your life and finally let your money work for you every day.
 
-# Payment gateway
-Use WACCoin 100% on WAC Marketplace.  in shop have product more than 1,000 item. Ready to ship immediately after paying WACCoin
+# Gold Debit Card
+Reward from Gold invest Staking can be chosen withdraw via a Visa Debit card that can be used at ATMs around the world or spent via cards
+supported by the Visa company.
 
-# Staking
-WAC Web3 Staking created a passive income generation technology that works through the Binance Smart chain. Get bonus automatically deposit into your wallet.
+– Low transaction fee. Easy withdrawal process through our platform. high sucure system. and can be used immediately.
 
-🌐 Smart Contract : https://bscscan.com/token/0xe5d2058ed5816918700723abfb6d1020fd243715
+– Visa partner. Earnings are automatically transferred to the wallet. Members can convert and withdraw money from the metamask wallet to crypto partner Visa cards such as Transak.
 
-📊 https://pancakeswap.finance/swap?outputCurrency=0xE5d2058eD5816918700723ABFb6d1020fd243715
+🌐 Smart Contract : https://bscscan.com/token/0x7979848ddb8027d1C3613d7bbDB25481986352Fd
 
-🚀 https://www.dextools.io/app/bsc/pair-explorer/0xE5d2058eD5816918700723ABFb6d1020fd243715
+📊 https://pancakeswap.finance/swap?outputCurrency=0x7979848ddb8027d1C3613d7bbDB25481986352Fd
+
+🟩 Twitter : https://twitter.com/official46512
+
+🚮 Facebook : https://www.facebook.com/goldinvestofficial
+
+🟢 Telegram : https://t.me/Goldinvestofficial
+
